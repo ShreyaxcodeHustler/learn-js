@@ -896,3 +896,4 @@ A solid understanding of these basics makes debugging much easier and prepares m
   * `setTimeout` loop example
   * `createCounters()` bug fix
   * Scope demonstration script
+g
