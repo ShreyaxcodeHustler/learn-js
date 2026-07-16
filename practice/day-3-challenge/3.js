@@ -13,9 +13,9 @@ function getGrade(score){
         switch(true){//swtich(true) helps evaluate case to boolean to make it easier to evaluate
             case score>=90:
                 return "A"
-            case score>=89:
+            case score>=80:
                 return "B"
-            case score>=79:
+            case score>=70:
                 return "C"
                 
             case score<=70:

@@ -20,7 +20,7 @@ function usingForIn(){
     }
     console.log(sum);
 }
-usingForOf();
+usingForIn();
 
 function usingForOf(){
     let sum=0;
@@ -30,6 +30,7 @@ function usingForOf(){
     console.log(sum);
 }
 
+usingForOf();
 
 /*.reduce() basics
 reduce takes an array and "reduces" it down to a single value (a sum, a max, a merged object, anything) by running a function over each element and carrying forward an accumulated result.
